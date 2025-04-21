@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do AlejandroFerreira1 😁
+## Seja bem-vindo(a) ao perfil do AlejandroFerreira1 😁
 
  <div>
    <a href="https://github.com/AlejandroFerreira1">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Para mais conteúdo sobre programação me siga nas redes abaixo!
  
 <div> 
   <a href="https://www.linkedin.com/in/alejandro-ferreira-santos-2a359b293/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
