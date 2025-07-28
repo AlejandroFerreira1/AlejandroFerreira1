@@ -87,7 +87,6 @@ Me chamo Alejandro Ferreira Dos Santos, tenho 18 anos e sou de Minas Gerais.
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=AlejandroFerreira1&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  />
 
 <img 
       align="left" 
