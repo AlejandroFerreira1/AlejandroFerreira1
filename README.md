@@ -5,13 +5,6 @@
 Me chamo Alejandro Ferreira Dos Santos, tenho 18 anos e sou de Minas Gerais.
 
 <p align="left">
-    <a href="https://github.com/AlejandroFerreira1?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
     <a href="https://github.com/AlejandroFerreira1?tab=followers">
         <img 
             alt="Seguidores" 
