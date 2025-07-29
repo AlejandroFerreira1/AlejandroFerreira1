@@ -85,6 +85,22 @@ Me chamo Alejandro Ferreira Dos Santos, tenho 18 anos e sou de Minas Gerais.
 />
 <img 
     align="left" 
+    alt="nestjs"
+    title="nestjs" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" 
+/>
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=39858&format=png&color=000000" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
