@@ -5,6 +5,7 @@
 Me chamo Alejandro Ferreira Dos Santos, tenho 18 anos e sou de Minas Gerais.
 
 <p align="left">
+    <a href="https://www.linkedin.com/in/alejandro-ferreira-santos-2a359b293/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://github.com/AlejandroFerreira1?tab=followers">
         <img 
             alt="Seguidores" 
