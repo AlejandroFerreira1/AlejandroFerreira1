@@ -17,14 +17,14 @@ Me chamo Alejandro Ferreira Dos Santos, tenho 18 anos e sou de Minas Gerais.
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
+          
 <img 
     align="left" 
     alt="node.js"
     title="node.js" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/node.js/node.js-original.svg" 
+    src=["https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/node.js/node.js-original.svg" ](https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000)
 />
 <img 
     align="left" 
